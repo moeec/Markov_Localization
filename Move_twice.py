@@ -30,8 +30,8 @@ def move(p, U):
         q.append(s)
     return q
 
-  p = move(p,1)
-  p = move(p,1)
+p = move(p,1)
+p = move(p,1)
   
   print p
 
