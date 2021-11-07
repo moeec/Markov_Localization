@@ -33,6 +33,4 @@ def move(p, U):
 p = move(p,1)
 p = move(p,1)
   
-  print p
-
-# Make sure to print out p!
+print p
